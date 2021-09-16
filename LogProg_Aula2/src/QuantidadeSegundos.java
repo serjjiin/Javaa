@@ -11,7 +11,7 @@ public class QuantidadeSegundos {
 
         // Entrada de dados
         System.out.println("Programa de calculo de segundos");
-        System.out.print("Digite 1 para colocar em minutos e 2 para horas.");
+        System.out.print("Digite 1 para colocar em minutos e 2 para horas.\n");
         escolha = leitor.nextDouble();
 
         System.out.print("Digite agora o número a ser convertido: ");
